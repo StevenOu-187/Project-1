@@ -1,7 +1,5 @@
-hallo
-
 ## change file
-cd 
+cd
 
 ## Command gitbash
 git push
