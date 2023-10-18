@@ -15,7 +15,7 @@ git add (1 file) // git add . (all files)
 
 *git changes*
 
-# Some command line that helps you#
+# Some command line that helps you
 18.10.2023 
 
 we sync git and visual studio
